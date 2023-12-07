@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="636daa59-d8af-4315-9ced-ccf8c02e35a7" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/JavaAlgorithms/README-ko.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/skeleton-sp21/lab1/HelloWorld.java" beforeDir="false" afterPath="$PROJECT_DIR$/skeleton-sp21/lab1/HelloWorld.java" afterDir="false" />
-    </list>
+    <list default="true" id="636daa59-d8af-4315-9ced-ccf8c02e35a7" name="Changes" comment="1" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -35,6 +32,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
@@ -54,6 +52,8 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Course" />
+      <recent name="$PROJECT_DIR$/JavaDoc" />
       <recent name="$PROJECT_DIR$/JavaPractice" />
       <recent name="$PROJECT_DIR$/JavaAlgorithms/src/main/java/com" />
       <recent name="$PROJECT_DIR$/JavaAlgorithms" />
@@ -69,11 +69,25 @@
       <updated>1701742391026</updated>
       <workItem from="1701767280107" duration="5021000" />
       <workItem from="1701858454674" duration="12723000" />
-      <workItem from="1701925923341" duration="832000" />
+      <workItem from="1701925923341" duration="1696000" />
     </task>
+    <task id="LOCAL-00001" summary="1">
+      <option name="closed" value="true" />
+      <created>1701927650213</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1701927650213</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="1" />
+    <option name="LAST_COMMIT_MESSAGE" value="1" />
   </component>
 </project>
