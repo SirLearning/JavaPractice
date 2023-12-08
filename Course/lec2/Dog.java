@@ -37,7 +37,7 @@ public class DogLauncher {
         // arrays of objects
         Dog[] dogs = new Dog[2];    // creates an array of Dogs of size 2
         dogs[0] = new Dog(8);
-        dogs[0] = new Dog(20);
+        dogs[1] = new Dog(20);
         dogs[0].makeNoise();
         // static invocation
         Dog.makeNoiseS();
