@@ -8,9 +8,9 @@ public class Dog {
     // non-statc method, a.k.a. instance method
     public void makeNoise() {
         if (weightInPounds < 10) {
-            System.out.println("yipyipyip!")
+            System.out.println("yipyipyip!");
         } else if (weightInPounds < 30) {
-            System.out.println("bark. bark.")
+            System.out.println("bark. bark.");
         } else {
             System.out.println("woof!");
         }
@@ -23,26 +23,33 @@ public class Dog {
             return d1;
         }
         return d2;
-        
     }
-}
-public class DogLauncher {
-    public static void main(String[] args) {
-        Dog smallDog;   // declaration
-        new Dog(20);    // instantiation
-        smallDog = new Dog(5);  // instantiation and assignment
-        Dog hugeDog = new Dog(150); // decaration, stantiation, and assignment
-        smallDog.makeNoise();
-        hugeDog.makeNoise();    // invocation, use a member of hugeDog
-        // arrays of objects
-        Dog[] dogs = new Dog[2];    // creates an array of Dogs of size 2
-        dogs[0] = new Dog(8);
-        dogs[1] = new Dog(20);
-        dogs[0].makeNoise();
-        // static invocation
-        Dog.makeNoiseS();
-        // non-static invocation
-        maya = new Dog(100);
-        maya.makeNoise();
+    public static String binomen = "Cani familiaris";
+
+    public static Dog[] largerThanFourNeighbors(Dog[] dogs) {
+        int loop = 4;
+        ploop = loop + 1;
+        int i = 0;
+        int counter = -2;
+        int l = dogs.length;
+        Dog[] size = new Dog[];
+        int sizeLength = -1;
+        while (i < l) {
+            for (int j = 0; j < ploop; j += 1, counter += 1) {
+                int full = 0;
+                if (i + counter >= 0) {
+                    if (dogs[i + counter].weightInPounds >= dogs[i]) {
+                        break;
+                    } else {
+                        full += 1;
+                    }
+                }
+                if (full == loop) {
+                    sizeLength += 1;
+                    size[sizeLength] = dogs[i];
+                }
+            }
+        }
+        System.out.println(java.util.Arrays.toString(size));
     }
 }
