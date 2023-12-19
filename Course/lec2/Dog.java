@@ -15,7 +15,7 @@ public class Dog {
             System.out.println("woof!");
         }
     }
-    public static void makeNoiseS() {
+    public static void makeNoise() {
         System.out.println("Bark!");
     }
     public static Dog maxDog(Dog d1, Dog d2) {
@@ -25,7 +25,6 @@ public class Dog {
         return d2;
     }
     public static String binomen = "Cani familiaris";
-
     public static Dog[] largerThanFourNeighbors(Dog[] dogs) {
         int loop = 4;
         ploop = loop + 1;

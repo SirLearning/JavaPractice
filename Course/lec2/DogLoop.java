@@ -1,7 +1,6 @@
 public class DogLoop {
     public DogLoop() {
     }
-
     public static void main(String[] args) {
         Dog smallDog = new Dog(5);
         Dog mediumDog = new Dog(25);
