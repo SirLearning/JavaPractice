@@ -5,14 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="636daa59-d8af-4315-9ced-ccf8c02e35a7" name="Changes" comment="1">
-      <change afterPath="$PROJECT_DIR$/src/Language/ObjectOriented/ACMEBicycle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Language/ObjectOriented/Bicycle.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Language/ObjectOriented/Bicycle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Language/ObjectOriented/BicycleDemo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Language/ObjectOriented/BicycleDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Language/ObjectOriented/MountainBike.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/JavaPractice.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/JavaPractice.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -105,7 +97,7 @@
       <workItem from="1702948217289" duration="328000" />
       <workItem from="1702948552182" duration="280000" />
       <workItem from="1702948840209" duration="35000" />
-      <workItem from="1703164461718" duration="2780000" />
+      <workItem from="1703164461718" duration="3432000" />
     </task>
     <task id="LOCAL-00001" summary="1">
       <option name="closed" value="true" />
