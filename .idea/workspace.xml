@@ -5,15 +5,28 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="636daa59-d8af-4315-9ced-ccf8c02e35a7" name="Changes" comment="1">
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Language/ObjectOriented/ACMEBicycle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Language/ObjectOriented/Bicycle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Language/ObjectOriented/Bicycle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Language/ObjectOriented/BicycleDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Language/ObjectOriented/BicycleDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Language/ObjectOriented/MountainBike.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/JavaPractice.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/JavaPractice.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Course/lec2/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/Course/lec2/Dog.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Course/lec2/DogLoop.java" beforeDir="false" afterPath="$PROJECT_DIR$/Course/lec2/DogLoop.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -35,34 +48,39 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/zhengda/Documents/Java/JavaPractice&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;SDKs&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/zhengda/Documents/Java/JavaPractice",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "editor.preferences.completion",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File": [
+      "JAVA"
+    ]
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/Language/ObjectOriented" />
       <recent name="$PROJECT_DIR$/Course" />
       <recent name="$PROJECT_DIR$/JavaDoc" />
       <recent name="$PROJECT_DIR$/JavaPractice" />
       <recent name="$PROJECT_DIR$/JavaAlgorithms/src/main/java/com" />
-      <recent name="$PROJECT_DIR$/JavaAlgorithms" />
     </key>
   </component>
   <component name="SharedIndexes">
@@ -87,6 +105,7 @@
       <workItem from="1702948217289" duration="328000" />
       <workItem from="1702948552182" duration="280000" />
       <workItem from="1702948840209" duration="35000" />
+      <workItem from="1703164461718" duration="2780000" />
     </task>
     <task id="LOCAL-00001" summary="1">
       <option name="closed" value="true" />
