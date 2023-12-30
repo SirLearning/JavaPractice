@@ -1,10 +1,9 @@
 package Language.ObjectOriented;
-
-interface Bicycle {
-
+public interface Bicycle {
     // wheel revolutiions per minute
-    void changeCadence(int newValue);
-    void changeGear(int newValue);
-    void speedUp(int increment);
-    void applyBrakes(int decrement);
+    public void changeCadence(int newValue);
+    public void changeGear(int newValue);
+    public void speedUp(int increment);
+    public void applyBrakes(int decrement);
+    public void printStates();
 }
