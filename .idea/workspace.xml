@@ -4,17 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="636daa59-d8af-4315-9ced-ccf8c02e35a7" name="Changes" comment="1">
-      <change afterPath="$PROJECT_DIR$/src/Language/ObjectOriented/exercises/cup.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Language/ObjectOriented/ACMEBicycle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Language/ObjectOriented/ACMEBicycle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Language/ObjectOriented/Bicycle.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Language/ObjectOriented/Bicycle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Language/ObjectOriented/Bicycle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Language/ObjectOriented/BicycleDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Language/ObjectOriented/BicycleDemo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Language/ObjectOriented/MountainBike.java" beforeDir="false" />
-    </list>
+    <list default="true" id="636daa59-d8af-4315-9ced-ccf8c02e35a7" name="Changes" comment="1" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
