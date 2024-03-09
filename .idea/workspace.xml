@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="636daa59-d8af-4315-9ced-ccf8c02e35a7" name="Changes" comment="1" />
+    <list default="true" id="636daa59-d8af-4315-9ced-ccf8c02e35a7" name="Changes" comment="1">
+      <change afterPath="$PROJECT_DIR$/src/Language/ObjectOriented/Operators.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -38,39 +42,47 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "Application.ACMEBicycle.executor": "Debug",
-    "Application.ArrayDemo.executor": "Debug",
-    "Application.BicycleDemo.executor": "Debug",
-    "Application.Language.ObjectOriented.BicycleDemo.executor": "Debug",
-    "Application.MountainBike.executor": "Debug",
-    "Application.cup.executor": "Debug",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "main",
-    "jdk.selected.JAVA_MODULE": "17",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/Users/zhengda/Documents/Java/JavaPractice",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "editor.preferences.appearance",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;Application.ACMEBicycle.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.ArithmeticDemo (1).executor&quot;: &quot;Debug&quot;,
+    &quot;Application.ArithmeticDemo.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.ArrayDemo.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.BicycleDemo.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.ComparisonDemo.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.ConditionalDemo1.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.ConditionalDemo2.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.InstanceofDemo.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.Language.ObjectOriented.BicycleDemo.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.MountainBike.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.PrePostDemo.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.UnaryDemo.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.cup.executor&quot;: &quot;Debug&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;17&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/zhengda/Documents/Java/JavaPractice&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.appearance&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   },
-  "keyToStringList": {
-    "com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File": [
-      "JAVA"
+  &quot;keyToStringList&quot;: {
+    &quot;com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File&quot;: [
+      &quot;JAVA&quot;
     ]
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/Language/ObjectOriented" />
@@ -80,9 +92,9 @@
       <recent name="$PROJECT_DIR$/JavaAlgorithms/src/main/java/com" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ArrayDemo">
-    <configuration name="ACMEBicycle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Language.ObjectOriented.ACMEBicycle" />
+  <component name="RunManager" selected="Application.InstanceofDemo">
+    <configuration name="ArithmeticDemo (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Language.ObjectOriented.ArithmeticDemo" />
       <module name="JavaPractice" />
       <extension name="coverage">
         <pattern>
@@ -94,21 +106,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ArrayDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Language.LanguageBasics.ArrayDemo" />
-      <module name="JavaPractice" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Language.LanguageBasics.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Language.ObjectOriented.BicycleDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Language.ObjectOriented.BicycleDemo" />
+    <configuration name="ComparisonDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Language.ObjectOriented.ComparisonDemo" />
       <module name="JavaPractice" />
       <extension name="coverage">
         <pattern>
@@ -120,8 +119,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MountainBike" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Language.ObjectOriented.MountainBike" />
+    <configuration name="ConditionalDemo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Language.ObjectOriented.ConditionalDemo1" />
       <module name="JavaPractice" />
       <extension name="coverage">
         <pattern>
@@ -133,12 +132,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="cup" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Language.ObjectOriented.exercises.cup" />
+    <configuration name="ConditionalDemo2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Language.ObjectOriented.ConditionalDemo2" />
       <module name="JavaPractice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Language.ObjectOriented.exercises.*" />
+          <option name="PATTERN" value="Language.ObjectOriented.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="InstanceofDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Language.ObjectOriented.InstanceofDemo" />
+      <module name="JavaPractice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Language.ObjectOriented.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -148,11 +160,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ArrayDemo" />
-        <item itemvalue="Application.MountainBike" />
-        <item itemvalue="Application.ACMEBicycle" />
-        <item itemvalue="Application.cup" />
-        <item itemvalue="Application.Language.ObjectOriented.BicycleDemo" />
+        <item itemvalue="Application.InstanceofDemo" />
+        <item itemvalue="Application.ConditionalDemo2" />
+        <item itemvalue="Application.ArithmeticDemo (1)" />
+        <item itemvalue="Application.ConditionalDemo1" />
+        <item itemvalue="Application.ComparisonDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -202,6 +214,9 @@
       <workItem from="1708488020589" duration="469000" />
       <workItem from="1708490741583" duration="637000" />
       <workItem from="1708491415847" duration="4524000" />
+      <workItem from="1708570329535" duration="1389000" />
+      <workItem from="1708693007138" duration="4435000" />
+      <workItem from="1708762246495" duration="1095000" />
     </task>
     <task id="LOCAL-00001" summary="1">
       <option name="closed" value="true" />
