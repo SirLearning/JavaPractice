@@ -5,9 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="636daa59-d8af-4315-9ced-ccf8c02e35a7" name="Changes" comment="1">
-      <change afterPath="$PROJECT_DIR$/src/Language/ObjectOriented/Operators.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Language/ObjectOriented/exercises/opterators.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Language/ObjectOriented/Operators.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Language/ObjectOriented/Operators.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,10 +50,11 @@
     &quot;Application.ArithmeticDemo.executor&quot;: &quot;Debug&quot;,
     &quot;Application.ArrayDemo.executor&quot;: &quot;Debug&quot;,
     &quot;Application.BicycleDemo.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.BitDemo.executor&quot;: &quot;Debug&quot;,
     &quot;Application.ComparisonDemo.executor&quot;: &quot;Debug&quot;,
     &quot;Application.ConditionalDemo1.executor&quot;: &quot;Debug&quot;,
     &quot;Application.ConditionalDemo2.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.InstanceofDemo.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.InstanceofDemo.executor&quot;: &quot;Run&quot;,
     &quot;Application.Language.ObjectOriented.BicycleDemo.executor&quot;: &quot;Debug&quot;,
     &quot;Application.MountainBike.executor&quot;: &quot;Debug&quot;,
     &quot;Application.PrePostDemo.executor&quot;: &quot;Debug&quot;,
@@ -74,7 +75,7 @@
     &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.appearance&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   },
   &quot;keyToStringList&quot;: {
@@ -92,7 +93,7 @@
       <recent name="$PROJECT_DIR$/JavaAlgorithms/src/main/java/com" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.InstanceofDemo">
+  <component name="RunManager" selected="Application.BitDemo">
     <configuration name="ArithmeticDemo (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Language.ObjectOriented.ArithmeticDemo" />
       <module name="JavaPractice" />
@@ -106,8 +107,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ComparisonDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Language.ObjectOriented.ComparisonDemo" />
+    <configuration name="BitDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Language.ObjectOriented.BitDemo" />
       <module name="JavaPractice" />
       <extension name="coverage">
         <pattern>
@@ -160,11 +161,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BitDemo" />
         <item itemvalue="Application.InstanceofDemo" />
         <item itemvalue="Application.ConditionalDemo2" />
         <item itemvalue="Application.ArithmeticDemo (1)" />
         <item itemvalue="Application.ConditionalDemo1" />
-        <item itemvalue="Application.ComparisonDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -217,6 +218,11 @@
       <workItem from="1708570329535" duration="1389000" />
       <workItem from="1708693007138" duration="4435000" />
       <workItem from="1708762246495" duration="1095000" />
+      <workItem from="1710133106024" duration="1732000" />
+      <workItem from="1710160180740" duration="110000" />
+      <workItem from="1710160299573" duration="2674000" />
+      <workItem from="1710234367242" duration="1484000" />
+      <workItem from="1710242126090" duration="2415000" />
     </task>
     <task id="LOCAL-00001" summary="1">
       <option name="closed" value="true" />

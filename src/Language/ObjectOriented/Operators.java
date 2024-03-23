@@ -1,5 +1,11 @@
 package Language.ObjectOriented;
 
+// =    Simple assignment operator
+// +    Additive operator (also used for String concatenation)
+// -    Subtraction operator
+// *    Multiplication operator
+// /    Division operator
+// %    Remainder operator
 class ArithmeticDemo {
     public static void main (String[] args) {
         int result = 1 + 2;
@@ -37,6 +43,11 @@ class ConcatDemo {
     }
 }
 
+// +   Unary plus operator; indicates positive value (numbers are positive without this, however)
+// -   Unary minus operator; negates an expression
+// ++  Increment operator; increments a value by 1
+// --  Decrement operator; decrements a value by 1
+// !   Logical complement operator; inverts the value of a boolean
 class UnaryDemo {
     public static void main(String[] args) {
         int result = +1;
@@ -73,6 +84,12 @@ class PrePostDemo {
     }
 }
 
+// ==  Equal to
+// !=  Not equal to
+// >   Greater than
+// >=  Greater than or equal to
+// <   Less than
+// <=  Less than or equal to
 class ComparisonDemo {
     public static void main(String[] args) {
         int value1 = 1;
@@ -95,6 +112,9 @@ class ComparisonDemo {
     }
 }
 
+// &&  Conditional-AND
+// ||  Conditional-OR
+// ? : Ternary (shorthand for if-then-else statement)
 class ConditionalDemo1 {
     public static void main(String[] args) {
         int value1 = 1;
@@ -119,6 +139,8 @@ class ConditionalDemo2 {
     }
 }
 
+// instanceof is a binary operator used to test if an object is of a given type
+// instanceof   Compares an object to a specified type
 class InstanceofDemo {
     public static void main(String[] args) {
         Parent obj1 = new Parent();
@@ -134,3 +156,27 @@ class InstanceofDemo {
 class Parent {}
 class Child extends Parent implements MyInterface {}
 interface MyInterface {}
+
+// bitwise is hard to understand
+// ~   Unary bitwise complement
+// <<  Signed left shift
+// >>  Signed right shift
+// >>> Unsigned right shift
+// &   Bitwise AND
+// ^   Bitwise exclusive OR
+// |   Bitwise inclusive OR
+class BitDemo {
+    public static void main(String[] args) {
+        int bitmask = 0x000F;
+        int val = 0x2222;
+        System.out.println(val);
+        System.out.println(bitmask);
+        System.out.println(val & bitmask);
+        System.out.println(val | bitmask);
+        System.out.println(val ^ bitmask);
+        System.out.println(val >>> 4);
+        System.out.println(val << 4);
+        System.out.println(val >> 4);
+    }
+}
+
