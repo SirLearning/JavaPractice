@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="636daa59-d8af-4315-9ced-ccf8c02e35a7" name="Changes" comment="1">
-      <change beforePath="$PROJECT_DIR$/.idea/copilot/chatSessions/00000000000.xd" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/copilot/chatSessions/00000000000.xd" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/copilot/chatSessions/xd.lck" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/copilot/chatSessions/xd.lck" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Language/ObjectOriented/exercises/cup.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Language/ObjectOriented/exercises/cup.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,7 +28,7 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProblemsViewState">
-    <option name="selectedTabId" value="CurrentFile" />
+    <option name="selectedTabId" value="QODANA_PROBLEMS_VIEW_TAB" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 6
@@ -42,48 +41,48 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;Application.ACMEBicycle.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.ArithmeticDemo (1).executor&quot;: &quot;Debug&quot;,
-    &quot;Application.ArithmeticDemo.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.ArrayDemo.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.BicycleDemo.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.BitDemo.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.ComparisonDemo.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.ConditionalDemo1.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.ConditionalDemo2.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.InstanceofDemo.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Language.ObjectOriented.BicycleDemo.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.MountainBike.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.PrePostDemo.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.UnaryDemo.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.cup.executor&quot;: &quot;Debug&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;17&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/zhengda/Documents/Java/JavaPractice&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Application.ACMEBicycle.executor": "Debug",
+    "Application.ArithmeticDemo (1).executor": "Debug",
+    "Application.ArithmeticDemo.executor": "Debug",
+    "Application.ArrayDemo.executor": "Debug",
+    "Application.BicycleDemo.executor": "Debug",
+    "Application.BitDemo.executor": "Debug",
+    "Application.ComparisonDemo.executor": "Debug",
+    "Application.ConditionalDemo1.executor": "Debug",
+    "Application.ConditionalDemo2.executor": "Debug",
+    "Application.InstanceofDemo.executor": "Run",
+    "Application.Language.ObjectOriented.BicycleDemo.executor": "Debug",
+    "Application.MountainBike.executor": "Debug",
+    "Application.PrePostDemo.executor": "Debug",
+    "Application.UnaryDemo.executor": "Debug",
+    "Application.cup.executor": "Debug",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "jdk.selected.JAVA_MODULE": "17",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/zhengda/Documents/Java/JavaPractice",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "com.github.copilot.settings.ApplicationConfigurable",
+    "vue.rearranger.settings.migration": "true"
   },
-  &quot;keyToStringList&quot;: {
-    &quot;com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File&quot;: [
-      &quot;JAVA&quot;
+  "keyToStringList": {
+    "com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File": [
+      "JAVA"
     ]
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/Language/ObjectOriented" />
@@ -224,6 +223,7 @@
       <workItem from="1710234367242" duration="1484000" />
       <workItem from="1710242126090" duration="2415000" />
       <workItem from="1711546525411" duration="13000" />
+      <workItem from="1711546548229" duration="10539000" />
     </task>
     <task id="LOCAL-00001" summary="1">
       <option name="closed" value="true" />
@@ -267,5 +267,9 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="1" />
     <option name="LAST_COMMIT_MESSAGE" value="1" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>

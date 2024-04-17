@@ -17,5 +17,6 @@ public class cup {
         cup1.v = 10;
         cup1.fillin(10, 5);
         System.out.println(cup1.v);
+        System.out.println();
     }
 }
