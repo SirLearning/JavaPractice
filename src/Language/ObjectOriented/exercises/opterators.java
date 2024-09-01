@@ -31,10 +31,11 @@ public class opterators {
 
         int value3 = 1;
         int value4 = 2;
-        if((value3 == 1) && (value4 == 2)) {
+        if ((value3 == 1) && (value4 == 2)) {
             System.out.println("value3 is 1 AND value4 is 2");
         }
-        if((value3 == 1) || (value4 == 1)) {
+        if ((value3 == 1) || (value4 == 1)) {
             System.out.println("value3 is 1 OR value4 is 1");
+        }
     }
 }
