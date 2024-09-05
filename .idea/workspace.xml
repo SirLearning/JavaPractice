@@ -4,34 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="636daa59-d8af-4315-9ced-ccf8c02e35a7" name="Changes" comment="1">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch01/GuessingGame.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/copilot/chatSessions/00000000000.xd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/copilot/chatSessions/blobs/version" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/copilot/chatSessions/xd.lck" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/FirstJava.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch01/FirstJava.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HW0/Basic.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HW0/Conditionals.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HW0/DoublesStrings.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HW0/Triangle.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HW0/arrays.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HW0/breakContinue.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HW0/breaknCon.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HW0/loops.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HW0/max.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Language/LanguageBasics/ArrayDemo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Language/ObjectOriented/ACMEBicycle.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Language/ObjectOriented/Bicycle.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Language/ObjectOriented/Operators.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Language/ObjectOriented/exercises/cup.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Language/ObjectOriented/exercises/opterators.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lec2/Dog.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lec2/DogLauncher.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lec2/DogLoop.java" beforeDir="false" />
-    </list>
+    <list default="true" id="636daa59-d8af-4315-9ced-ccf8c02e35a7" name="Changes" comment="1" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -65,49 +38,49 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "Application.ACMEBicycle.executor": "Debug",
-    "Application.ArithmeticDemo (1).executor": "Debug",
-    "Application.ArithmeticDemo.executor": "Debug",
-    "Application.ArrayDemo.executor": "Debug",
-    "Application.BicycleDemo.executor": "Debug",
-    "Application.BitDemo.executor": "Debug",
-    "Application.ComparisonDemo.executor": "Debug",
-    "Application.ConditionalDemo1.executor": "Debug",
-    "Application.ConditionalDemo2.executor": "Debug",
-    "Application.InstanceofDemo.executor": "Run",
-    "Application.Language.ObjectOriented.BicycleDemo.executor": "Debug",
-    "Application.MountainBike.executor": "Debug",
-    "Application.PrePostDemo.executor": "Debug",
-    "Application.UnaryDemo.executor": "Debug",
-    "Application.cup.executor": "Debug",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "main",
-    "jdk.selected.JAVA_MODULE": "17",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "D:/4_NBS/Java/JavaPractice",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "configurable.group.language",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;Application.ACMEBicycle.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.ArithmeticDemo (1).executor&quot;: &quot;Debug&quot;,
+    &quot;Application.ArithmeticDemo.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.ArrayDemo.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.BicycleDemo.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.BitDemo.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.ComparisonDemo.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.ConditionalDemo1.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.ConditionalDemo2.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.InstanceofDemo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Language.ObjectOriented.BicycleDemo.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.MountainBike.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.PrePostDemo.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.UnaryDemo.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.cup.executor&quot;: &quot;Debug&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;17&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/4_NBS/Java/JavaPractice&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;configurable.group.language&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   },
-  "keyToStringList": {
-    "com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File": [
-      "JAVA"
+  &quot;keyToStringList&quot;: {
+    &quot;com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File&quot;: [
+      &quot;JAVA&quot;
     ]
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\4_NBS\Java\JavaPractice\src" />
