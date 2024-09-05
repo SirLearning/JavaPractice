@@ -5,54 +5,32 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="636daa59-d8af-4315-9ced-ccf8c02e35a7" name="Changes" comment="1">
-      <change afterPath="$PROJECT_DIR$/src/FirstJava.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch01/GuessingGame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/copilot/chatSessions/00000000000.xd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/copilot/chatSessions/blobs/version" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/copilot/chatSessions/xd.lck" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Course/HW0/Basic.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Course/HW0/Basic.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HW0/Basic.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Course/HW0/Conditionals.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Course/HW0/Conditionals.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HW0/Conditionals.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Course/HW0/DoublesStrings.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Course/HW0/DoublesStrings.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HW0/DoublesStrings.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Course/HW0/Triangle.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Course/HW0/Triangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HW0/Triangle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Course/HW0/arrays.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Course/HW0/arrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HW0/arrays.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Course/HW0/breakContinue.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Course/HW0/breakContinue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HW0/breakContinue.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Course/HW0/breaknCon.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Course/HW0/breaknCon.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HW0/breaknCon.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Course/HW0/loops.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Course/HW0/loops.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HW0/loops.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Course/HW0/max.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Course/HW0/max.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HW0/max.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Course/lec2/Dog.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Course/lec2/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lec2/Dog.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Course/lec2/DogLauncher.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Course/lec2/DogLauncher.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lec2/DogLauncher.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Course/lec2/DogLoop.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Course/lec2/DogLoop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lec2/DogLoop.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Course/lec2/Dogsize.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Module/production/JavaPractice/Language/LanguageBasics/ArrayDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Module/production/JavaPractice/Language/ObjectOriented/ACMEBicycle.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Module/production/JavaPractice/Language/ObjectOriented/ArithmeticDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Module/production/JavaPractice/Language/ObjectOriented/Bicycle.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Module/production/JavaPractice/Language/ObjectOriented/BitDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Module/production/JavaPractice/Language/ObjectOriented/Child.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Module/production/JavaPractice/Language/ObjectOriented/ComparisonDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Module/production/JavaPractice/Language/ObjectOriented/ConcatDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Module/production/JavaPractice/Language/ObjectOriented/ConditionalDemo1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Module/production/JavaPractice/Language/ObjectOriented/ConditionalDemo2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Module/production/JavaPractice/Language/ObjectOriented/InstanceofDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Module/production/JavaPractice/Language/ObjectOriented/MountainBike.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Module/production/JavaPractice/Language/ObjectOriented/MyInterface.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Module/production/JavaPractice/Language/ObjectOriented/Parent.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Module/production/JavaPractice/Language/ObjectOriented/PrePostDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Module/production/JavaPractice/Language/ObjectOriented/UnaryDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Module/production/JavaPractice/Language/ObjectOriented/exercises/cup.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Module/production/JavaPractice/Language/ObjectOriented/roadBike.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Module/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Language/ObjectOriented/exercises/opterators.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Language/ObjectOriented/exercises/opterators.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/FirstJava.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch01/FirstJava.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HW0/Basic.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HW0/Conditionals.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HW0/DoublesStrings.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HW0/Triangle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HW0/arrays.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HW0/breakContinue.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HW0/breaknCon.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HW0/loops.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HW0/max.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Language/LanguageBasics/ArrayDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Language/ObjectOriented/ACMEBicycle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Language/ObjectOriented/Bicycle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Language/ObjectOriented/Operators.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Language/ObjectOriented/exercises/cup.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Language/ObjectOriented/exercises/opterators.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lec2/Dog.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lec2/DogLauncher.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lec2/DogLoop.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,7 +52,7 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProblemsViewState">
-    <option name="selectedTabId" value="QODANA_PROBLEMS_VIEW_TAB" />
+    <option name="selectedTabId" value="CurrentFile" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 6
@@ -107,6 +85,7 @@
     "Application.cup.executor": "Debug",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "main",
     "jdk.selected.JAVA_MODULE": "17",
@@ -120,7 +99,7 @@
     "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "com.github.copilot.settings.ApplicationConfigurable",
+    "settings.editor.selected.configurable": "configurable.group.language",
     "vue.rearranger.settings.migration": "true"
   },
   "keyToStringList": {
@@ -138,20 +117,7 @@
       <recent name="$PROJECT_DIR$/JavaPractice" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.FirstJava">
-    <configuration name="ArithmeticDemo (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Language.ObjectOriented.ArithmeticDemo" />
-      <module name="JavaPractice" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Language.ObjectOriented.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.GuessingGame">
     <configuration name="BitDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Language.ObjectOriented.BitDemo" />
       <module name="JavaPractice" />
@@ -179,8 +145,21 @@
       </method>
     </configuration>
     <configuration name="FirstJava" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FirstJava" />
+      <option name="MAIN_CLASS_NAME" value="ch01.FirstJava" />
       <module name="JavaPractice" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GuessingGame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch01.GuessingGame" />
+      <module name="JavaPractice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ch01.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -200,11 +179,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.GuessingGame" />
         <item itemvalue="Application.FirstJava" />
         <item itemvalue="Application.BitDemo" />
         <item itemvalue="Application.InstanceofDemo" />
         <item itemvalue="Application.ConditionalDemo2" />
-        <item itemvalue="Application.ArithmeticDemo (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -265,6 +244,7 @@
       <workItem from="1711546525411" duration="13000" />
       <workItem from="1711546548229" duration="10539000" />
       <workItem from="1724899007046" duration="3931000" />
+      <workItem from="1725349571810" duration="4536000" />
     </task>
     <task id="LOCAL-00001" summary="1">
       <option name="closed" value="true" />
