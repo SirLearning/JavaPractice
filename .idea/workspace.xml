@@ -5,8 +5,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="636daa59-d8af-4315-9ced-ccf8c02e35a7" name="Changes" comment="1">
+      <change afterPath="$PROJECT_DIR$/src/ch03/EscapeCharacter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch03/Grade.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch03/Separator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch03/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch03/TypeConversion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch03/VariableDeclaration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch04/MaxMin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch04/SwitchSeason.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaPractice.iml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaPractice.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module/Module.iml" beforeDir="false" afterPath="$PROJECT_DIR$/out/Module.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module/production/JavaPractice/ch01/FirstJava.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaPractice/ch01/FirstJava.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module/production/JavaPractice/ch01/GuessingGame.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaPractice/ch01/GuessingGame.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,18 +36,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "SirLearning"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;SirLearning&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/SirLearning/JavaPractice.git",
-    "accountId": "3f23e159-8543-47f8-8e85-6dd5ef1bfe80"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/SirLearning/JavaPractice.git&quot;,
+    &quot;accountId&quot;: &quot;3c8f18a6-57f8-459b-8436-51c46bde9dac&quot;
   }
-}]]></component>
+}</component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
@@ -65,11 +77,20 @@
     &quot;Application.ComparisonDemo.executor&quot;: &quot;Debug&quot;,
     &quot;Application.ConditionalDemo1.executor&quot;: &quot;Debug&quot;,
     &quot;Application.ConditionalDemo2.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.EscapeCharacter.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Grade.executor&quot;: &quot;Run&quot;,
+    &quot;Application.GuessingGame.executor&quot;: &quot;Run&quot;,
     &quot;Application.InstanceofDemo.executor&quot;: &quot;Run&quot;,
     &quot;Application.Language.ObjectOriented.BicycleDemo.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.MaxMin.executor&quot;: &quot;Run&quot;,
     &quot;Application.MountainBike.executor&quot;: &quot;Debug&quot;,
     &quot;Application.PrePostDemo.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.Separator.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SwitchSeason.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Test.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TypeConversion.executor&quot;: &quot;Run&quot;,
     &quot;Application.UnaryDemo.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.VariableDeclaration.executor&quot;: &quot;Run&quot;,
     &quot;Application.cup.executor&quot;: &quot;Debug&quot;,
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
@@ -98,20 +119,20 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/out" />
       <recent name="D:\4_NBS\Java\JavaPractice\src" />
       <recent name="$PROJECT_DIR$/src/Language/ObjectOriented" />
       <recent name="$PROJECT_DIR$/Course" />
       <recent name="$PROJECT_DIR$/JavaDoc" />
-      <recent name="$PROJECT_DIR$/JavaPractice" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.GuessingGame">
-    <configuration name="BitDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Language.ObjectOriented.BitDemo" />
+  <component name="RunManager" selected="Application.SwitchSeason">
+    <configuration name="Grade" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch03.Grade" />
       <module name="JavaPractice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Language.ObjectOriented.*" />
+          <option name="PATTERN" value="ch03.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -119,12 +140,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ConditionalDemo2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Language.ObjectOriented.ConditionalDemo2" />
+    <configuration name="MaxMin" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch04.MaxMin" />
       <module name="JavaPractice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Language.ObjectOriented.*" />
+          <option name="PATTERN" value="ch04.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -132,19 +153,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FirstJava" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ch01.FirstJava" />
-      <module name="JavaPractice" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="GuessingGame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ch01.GuessingGame" />
+    <configuration name="SwitchSeason" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch04.SwitchSeason" />
       <module name="JavaPractice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ch01.*" />
+          <option name="PATTERN" value="ch04.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -152,12 +166,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="InstanceofDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Language.ObjectOriented.InstanceofDemo" />
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch03.Test" />
       <module name="JavaPractice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Language.ObjectOriented.*" />
+          <option name="PATTERN" value="ch03.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VariableDeclaration" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch03.VariableDeclaration" />
+      <module name="JavaPractice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ch03.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -167,19 +194,19 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.GuessingGame" />
-        <item itemvalue="Application.FirstJava" />
-        <item itemvalue="Application.BitDemo" />
-        <item itemvalue="Application.InstanceofDemo" />
-        <item itemvalue="Application.ConditionalDemo2" />
+        <item itemvalue="Application.SwitchSeason" />
+        <item itemvalue="Application.MaxMin" />
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.Grade" />
+        <item itemvalue="Application.VariableDeclaration" />
       </list>
     </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-jdk-9823dce3aa75-28b599e66164-intellij.indexing.shared.core-IU-242.23339.11" />
-        <option value="bundled-js-predefined-d6986cc7102b-5c90d61e3bab-JavaScript-IU-242.23339.11" />
+        <option value="bundled-jdk-9f38398b9061-39b83d9b5494-intellij.indexing.shared.core-IU-241.19072.14" />
+        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-IU-241.19072.14" />
       </set>
     </attachedChunks>
   </component>
@@ -236,6 +263,8 @@
       <workItem from="1725349571810" duration="4536000" />
       <workItem from="1727757514196" duration="1214000" />
       <workItem from="1727866684564" duration="1227000" />
+      <workItem from="1730180227114" duration="12415000" />
+      <workItem from="1730222068038" duration="609000" />
     </task>
     <task id="LOCAL-00001" summary="1">
       <option name="closed" value="true" />
