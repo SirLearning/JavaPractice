@@ -5,9 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="636daa59-d8af-4315-9ced-ccf8c02e35a7" name="Changes" comment="1">
-      <change afterPath="$PROJECT_DIR$/src/ch04/DoWhileSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch04/SwitchWeek.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch04/ContinueStatement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch04/ForInterest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch04/GradeStat.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch04/DoWhileSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch04/DoWhileSum.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,58 +56,61 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;Application.ACMEBicycle.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.ArithmeticDemo (1).executor&quot;: &quot;Debug&quot;,
-    &quot;Application.ArithmeticDemo.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.ArrayDemo.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.BicycleDemo.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.BitDemo.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.ComparisonDemo.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.ConditionalDemo1.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.ConditionalDemo2.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.EscapeCharacter.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Grade.executor&quot;: &quot;Run&quot;,
-    &quot;Application.GuessingGame.executor&quot;: &quot;Run&quot;,
-    &quot;Application.InstanceofDemo.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Language.ObjectOriented.BicycleDemo.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.MaxMin.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MountainBike.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.PrePostDemo.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.Separator.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SwitchSeason.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Test.executor&quot;: &quot;Run&quot;,
-    &quot;Application.TypeConversion.executor&quot;: &quot;Run&quot;,
-    &quot;Application.UnaryDemo.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.VariableDeclaration.executor&quot;: &quot;Run&quot;,
-    &quot;Application.cup.executor&quot;: &quot;Debug&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;17&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/4_NBS/Java/JavaPractice&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;configurable.group.language&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Application.ACMEBicycle.executor": "Debug",
+    "Application.ArithmeticDemo (1).executor": "Debug",
+    "Application.ArithmeticDemo.executor": "Debug",
+    "Application.ArrayDemo.executor": "Debug",
+    "Application.BicycleDemo.executor": "Debug",
+    "Application.BitDemo.executor": "Debug",
+    "Application.ComparisonDemo.executor": "Debug",
+    "Application.ConditionalDemo1.executor": "Debug",
+    "Application.ConditionalDemo2.executor": "Debug",
+    "Application.ContinueStatement.executor": "Run",
+    "Application.DoWhileSum.executor": "Run",
+    "Application.EscapeCharacter.executor": "Run",
+    "Application.ForInterest.executor": "Run",
+    "Application.Grade.executor": "Run",
+    "Application.GuessingGame.executor": "Run",
+    "Application.InstanceofDemo.executor": "Run",
+    "Application.Language.ObjectOriented.BicycleDemo.executor": "Debug",
+    "Application.MaxMin.executor": "Run",
+    "Application.MountainBike.executor": "Debug",
+    "Application.PrePostDemo.executor": "Debug",
+    "Application.Separator.executor": "Run",
+    "Application.SwitchSeason.executor": "Run",
+    "Application.Test.executor": "Run",
+    "Application.TypeConversion.executor": "Run",
+    "Application.UnaryDemo.executor": "Debug",
+    "Application.VariableDeclaration.executor": "Run",
+    "Application.cup.executor": "Debug",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "jdk.selected.JAVA_MODULE": "17",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/4_NBS/Java/JavaPractice",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "configurable.group.language",
+    "vue.rearranger.settings.migration": "true"
   },
-  &quot;keyToStringList&quot;: {
-    &quot;com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File&quot;: [
-      &quot;JAVA&quot;
+  "keyToStringList": {
+    "com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File": [
+      "JAVA"
     ]
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/out" />
@@ -115,13 +120,39 @@
       <recent name="$PROJECT_DIR$/JavaDoc" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.SwitchSeason">
-    <configuration name="Grade" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ch03.Grade" />
+  <component name="RunManager" selected="Application.ContinueStatement">
+    <configuration name="ContinueStatement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch04.ContinueStatement" />
       <module name="JavaPractice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ch03.*" />
+          <option name="PATTERN" value="ch04.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DoWhileSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch04.DoWhileSum" />
+      <module name="JavaPractice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ch04.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ForInterest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch04.ForInterest" />
+      <module name="JavaPractice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ch04.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -155,39 +186,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ch03.Test" />
-      <module name="JavaPractice" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ch03.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="VariableDeclaration" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ch03.VariableDeclaration" />
-      <module name="JavaPractice" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ch03.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ContinueStatement" />
+        <item itemvalue="Application.ForInterest" />
+        <item itemvalue="Application.DoWhileSum" />
         <item itemvalue="Application.SwitchSeason" />
         <item itemvalue="Application.MaxMin" />
-        <item itemvalue="Application.Test" />
-        <item itemvalue="Application.Grade" />
-        <item itemvalue="Application.VariableDeclaration" />
       </list>
     </recent_temporary>
   </component>
