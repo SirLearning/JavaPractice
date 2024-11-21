@@ -5,10 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="636daa59-d8af-4315-9ced-ccf8c02e35a7" name="Changes" comment="1">
-      <change afterPath="$PROJECT_DIR$/src/ch04/RotorString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch04/StudentPoll.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch04/GradeBook.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch04/GradeBookTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch06/StaticTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch06/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch06/Time.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch06/TimeTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/leetcode/statistics.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/leetcode/statistics.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ch04/GradeStat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch04/GradeStat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch04/RotorString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch04/RotorString.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,6 +77,7 @@
     "Application.EscapeCharacter.executor": "Run",
     "Application.ForInterest.executor": "Run",
     "Application.Grade.executor": "Run",
+    "Application.GradeBookTest.executor": "Debug",
     "Application.GradeStat.executor": "Run",
     "Application.GuessingGame.executor": "Run",
     "Application.InstanceofDemo.executor": "Run",
@@ -79,10 +85,13 @@
     "Application.MaxMin.executor": "Run",
     "Application.MountainBike.executor": "Debug",
     "Application.PrePostDemo.executor": "Debug",
+    "Application.RotorString.executor": "Run",
     "Application.Separator.executor": "Run",
+    "Application.StaticTest.executor": "Run",
     "Application.StudentPoll.executor": "Run",
     "Application.SwitchSeason.executor": "Run",
     "Application.Test.executor": "Run",
+    "Application.TimeTest.executor": "Run",
     "Application.TypeConversion.executor": "Run",
     "Application.UnaryDemo.executor": "Debug",
     "Application.VariableDeclaration.executor": "Run",
@@ -121,9 +130,9 @@
       <recent name="$PROJECT_DIR$/JavaDoc" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.StudentPoll">
-    <configuration name="ContinueStatement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ch04.ContinueStatement" />
+  <component name="RunManager" selected="Application.StaticTest">
+    <configuration name="GradeBookTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch04.GradeBookTest" />
       <module name="JavaPractice" />
       <extension name="coverage">
         <pattern>
@@ -135,8 +144,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DoWhileSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ch04.DoWhileSum" />
+    <configuration name="RotorString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch04.RotorString" />
       <module name="JavaPractice" />
       <extension name="coverage">
         <pattern>
@@ -148,25 +157,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ForInterest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ch04.ForInterest" />
+    <configuration name="StaticTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch06.StaticTest" />
       <module name="JavaPractice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ch04.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="GradeStat" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ch04.GradeStat" />
-      <module name="JavaPractice" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ch04.*" />
+          <option name="PATTERN" value="ch06.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -187,13 +183,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TimeTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch06.TimeTest" />
+      <module name="JavaPractice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ch06.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.StaticTest" />
+        <item itemvalue="Application.TimeTest" />
+        <item itemvalue="Application.GradeBookTest" />
+        <item itemvalue="Application.RotorString" />
         <item itemvalue="Application.StudentPoll" />
-        <item itemvalue="Application.GradeStat" />
-        <item itemvalue="Application.ContinueStatement" />
-        <item itemvalue="Application.ForInterest" />
-        <item itemvalue="Application.DoWhileSum" />
       </list>
     </recent_temporary>
   </component>
@@ -260,7 +269,8 @@
       <workItem from="1727866684564" duration="1227000" />
       <workItem from="1730180227114" duration="12415000" />
       <workItem from="1730222068038" duration="1866000" />
-      <workItem from="1730470348022" duration="23778000" />
+      <workItem from="1730470348022" duration="26900000" />
+      <workItem from="1731466248772" duration="32536000" />
     </task>
     <task id="LOCAL-00001" summary="1">
       <option name="closed" value="true" />
