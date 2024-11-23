@@ -5,15 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="636daa59-d8af-4315-9ced-ccf8c02e35a7" name="Changes" comment="1">
-      <change afterPath="$PROJECT_DIR$/src/ch04/GradeBook.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch04/GradeBookTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch06/StaticTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch06/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch06/Time.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch06/TimeTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/leetcode/statistics.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/leetcode/statistics.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch06_3/BasePlusCommissionEmployee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch06_3/BasePlusCommissionEmployee2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch06_3/BasePlusCommissionEmployeeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch06_3/CommissionEmployee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch06_3/CommissionEmployeeTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ch04/RotorString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch04/RotorString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaPractice/ch06/StaticTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaPractice/ch06/StaticTest.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,8 +65,10 @@
     "Application.ArithmeticDemo (1).executor": "Debug",
     "Application.ArithmeticDemo.executor": "Debug",
     "Application.ArrayDemo.executor": "Debug",
+    "Application.BasePlusCommissionEmployeeTest.executor": "Run",
     "Application.BicycleDemo.executor": "Debug",
     "Application.BitDemo.executor": "Debug",
+    "Application.CommissionEmployeeTest.executor": "Run",
     "Application.ComparisonDemo.executor": "Debug",
     "Application.ConditionalDemo1.executor": "Debug",
     "Application.ConditionalDemo2.executor": "Debug",
@@ -112,7 +112,7 @@
     "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "configurable.group.language",
+    "settings.editor.selected.configurable": "preferences.toDoOptions",
     "vue.rearranger.settings.migration": "true"
   },
   "keyToStringList": {
@@ -130,13 +130,13 @@
       <recent name="$PROJECT_DIR$/JavaDoc" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.StaticTest">
-    <configuration name="GradeBookTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ch04.GradeBookTest" />
+  <component name="RunManager" selected="Application.BasePlusCommissionEmployeeTest">
+    <configuration name="BasePlusCommissionEmployeeTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch06_3.BasePlusCommissionEmployeeTest" />
       <module name="JavaPractice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ch04.*" />
+          <option name="PATTERN" value="ch06_3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -144,8 +144,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RotorString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ch04.RotorString" />
+    <configuration name="CommissionEmployeeTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch06_3.CommissionEmployeeTest" />
+      <module name="JavaPractice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ch06_3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GradeBookTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch04.GradeBookTest" />
       <module name="JavaPractice" />
       <extension name="coverage">
         <pattern>
@@ -170,19 +183,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StudentPoll" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ch04.StudentPoll" />
-      <module name="JavaPractice" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ch04.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="TimeTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ch06.TimeTest" />
       <module name="JavaPractice" />
@@ -198,11 +198,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BasePlusCommissionEmployeeTest" />
+        <item itemvalue="Application.CommissionEmployeeTest" />
         <item itemvalue="Application.StaticTest" />
         <item itemvalue="Application.TimeTest" />
         <item itemvalue="Application.GradeBookTest" />
-        <item itemvalue="Application.RotorString" />
-        <item itemvalue="Application.StudentPoll" />
       </list>
     </recent_temporary>
   </component>
@@ -270,7 +270,7 @@
       <workItem from="1730180227114" duration="12415000" />
       <workItem from="1730222068038" duration="1866000" />
       <workItem from="1730470348022" duration="26900000" />
-      <workItem from="1731466248772" duration="32536000" />
+      <workItem from="1731466248772" duration="39441000" />
     </task>
     <task id="LOCAL-00001" summary="1">
       <option name="closed" value="true" />
