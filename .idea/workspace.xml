@@ -4,23 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="636daa59-d8af-4315-9ced-ccf8c02e35a7" name="Changes" comment="1">
-      <change afterPath="$PROJECT_DIR$/.idea/kotlinc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch06_4/BasePlusCommissionEmployee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch06_4/CommissionEmployee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch06_4/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch06_4/HourlyEmployee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch06_4/PayrollSystemTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch06_4/SalariedEmployee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch06_6/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch06_6/Invoice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch06_6/Payable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch06_6/PayableInterfaceTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch06_6/SalariedEmployee.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaPractice.iml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaPractice.iml" afterDir="false" />
-    </list>
+    <list default="true" id="636daa59-d8af-4315-9ced-ccf8c02e35a7" name="Changes" comment="1" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -282,7 +266,7 @@
       <workItem from="1730222068038" duration="1866000" />
       <workItem from="1730470348022" duration="26900000" />
       <workItem from="1731466248772" duration="40040000" />
-      <workItem from="1732366295199" duration="9736000" />
+      <workItem from="1732366295199" duration="10936000" />
     </task>
     <task id="LOCAL-00001" summary="1">
       <option name="closed" value="true" />
