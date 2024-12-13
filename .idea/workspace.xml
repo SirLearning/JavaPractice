@@ -4,7 +4,48 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="636daa59-d8af-4315-9ced-ccf8c02e35a7" name="Changes" comment="1" />
+    <list default="true" id="636daa59-d8af-4315-9ced-ccf8c02e35a7" name="Changes" comment="1">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch01/FirstJava.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/junior/ch01/FirstJava.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch01/GuessingGame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/junior/ch01/GuessingGame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch03/EscapeCharacter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/junior/ch03/EscapeCharacter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch03/Grade.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/junior/ch03/Grade.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch03/Separator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/junior/ch03/Separator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch03/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/junior/ch03/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch03/TypeConversion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/junior/ch03/TypeConversion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch03/VariableDeclaration.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/junior/ch03/VariableDeclaration.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch04/ContinueStatement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/junior/ch04/ContinueStatement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch04/DoWhileSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/junior/ch04/DoWhileSum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch04/ForInterest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/junior/ch04/ForInterest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch04/GradeBook.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/junior/ch04/GradeBook.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch04/GradeBookTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/junior/ch04/GradeBookTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch04/GradeStat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/junior/ch04/GradeStat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch04/MaxMin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/junior/ch04/MaxMin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch04/RotorString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/junior/ch04/RotorString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch04/StudentPoll.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/junior/ch04/StudentPoll.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch04/SwitchSeason.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/junior/ch04/SwitchSeason.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch04/SwitchWeek.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/junior/ch04/SwitchWeek.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch06/StaticTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/junior/ch06/StaticTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch06/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/junior/ch06/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch06/Time.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/junior/ch06/Time.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch06/TimeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/junior/ch06/TimeTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch06_3/BasePlusCommissionEmployee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/junior/ch06_3/BasePlusCommissionEmployee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch06_3/BasePlusCommissionEmployee2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/junior/ch06_3/BasePlusCommissionEmployee2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch06_3/BasePlusCommissionEmployeeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/junior/ch06_3/BasePlusCommissionEmployeeTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch06_3/CommissionEmployee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/junior/ch06_3/CommissionEmployee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch06_3/CommissionEmployeeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/junior/ch06_3/CommissionEmployeeTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch06_4/BasePlusCommissionEmployee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/junior/ch06_4/BasePlusCommissionEmployee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch06_4/CommissionEmployee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/junior/ch06_4/CommissionEmployee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch06_4/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/junior/ch06_4/Employee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch06_4/HourlyEmployee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/junior/ch06_4/HourlyEmployee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch06_4/PayrollSystemTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/junior/ch06_4/PayrollSystemTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch06_4/SalariedEmployee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/junior/ch06_4/SalariedEmployee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch06_6/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/junior/ch06_6/Employee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch06_6/Invoice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/junior/ch06_6/Invoice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch06_6/Payable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/junior/ch06_6/Payable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch06_6/PayableInterfaceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/junior/ch06_6/PayableInterfaceTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch06_6/SalariedEmployee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/junior/ch06_6/SalariedEmployee.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -127,11 +168,11 @@
   </component>
   <component name="RunManager" selected="Application.PayableInterfaceTest">
     <configuration name="BasePlusCommissionEmployeeTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ch06_3.BasePlusCommissionEmployeeTest" />
+      <option name="MAIN_CLASS_NAME" value="junior.ch06_3.BasePlusCommissionEmployeeTest" />
       <module name="JavaPractice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ch06_3.*" />
+          <option name="PATTERN" value="junior.ch06_3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -140,11 +181,11 @@
       </method>
     </configuration>
     <configuration name="CommissionEmployeeTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ch06_3.CommissionEmployeeTest" />
+      <option name="MAIN_CLASS_NAME" value="junior.ch06_3.CommissionEmployeeTest" />
       <module name="JavaPractice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ch06_3.*" />
+          <option name="PATTERN" value="junior.ch06_3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -153,11 +194,11 @@
       </method>
     </configuration>
     <configuration name="PayableInterfaceTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ch06_6.PayableInterfaceTest" />
+      <option name="MAIN_CLASS_NAME" value="junior.ch06_6.PayableInterfaceTest" />
       <module name="JavaPractice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ch06_6.*" />
+          <option name="PATTERN" value="junior.ch06_6.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -166,11 +207,11 @@
       </method>
     </configuration>
     <configuration name="PayrollSystemTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ch06_4.PayrollSystemTest" />
+      <option name="MAIN_CLASS_NAME" value="junior.ch06_4.PayrollSystemTest" />
       <module name="JavaPractice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ch06_4.*" />
+          <option name="PATTERN" value="junior.ch06_4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -179,11 +220,11 @@
       </method>
     </configuration>
     <configuration name="StaticTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ch06.StaticTest" />
+      <option name="MAIN_CLASS_NAME" value="junior.ch06.StaticTest" />
       <module name="JavaPractice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ch06.*" />
+          <option name="PATTERN" value="junior.ch06.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -266,7 +307,7 @@
       <workItem from="1730222068038" duration="1866000" />
       <workItem from="1730470348022" duration="26900000" />
       <workItem from="1731466248772" duration="40040000" />
-      <workItem from="1732366295199" duration="10936000" />
+      <workItem from="1732366295199" duration="12207000" />
     </task>
     <task id="LOCAL-00001" summary="1">
       <option name="closed" value="true" />
