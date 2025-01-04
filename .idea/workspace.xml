@@ -5,11 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="636daa59-d8af-4315-9ced-ccf8c02e35a7" name="Changes" comment="1">
-      <change afterPath="$PROJECT_DIR$/sql/main_list.sql" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sqldialects.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sqldialects.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/d8b8758b-1174-4cf9-b318-cea978d94641.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/d8b8758b-1174-4cf9-b318-cea978d94641.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sql/create_main_list.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaPractice.iml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaPractice.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sql/main_list.sql" beforeDir="false" afterPath="$PROJECT_DIR$/sql/main_list.sql" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,12 +34,12 @@
     &quot;assignee&quot;: &quot;SirLearning&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/SirLearning/JavaPractice.git",
-    "accountId": "3f23e159-8543-47f8-8e85-6dd5ef1bfe80"
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/SirLearning/JavaPractice.git&quot;,
+    &quot;accountId&quot;: &quot;3f23e159-8543-47f8-8e85-6dd5ef1bfe80&quot;
   }
-}]]></component>
+}</component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
@@ -132,11 +132,11 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/sql" />
       <recent name="$PROJECT_DIR$/src" />
       <recent name="$PROJECT_DIR$/out" />
       <recent name="D:\4_NBS\Java\JavaPractice\src" />
       <recent name="$PROJECT_DIR$/src/Language/ObjectOriented" />
-      <recent name="$PROJECT_DIR$/Course" />
     </key>
   </component>
   <component name="RunManager" selected="Application.MySQLUse">
@@ -283,7 +283,7 @@
       <workItem from="1732366295199" duration="12207000" />
       <workItem from="1734928898418" duration="972000" />
       <workItem from="1734934533174" duration="294000" />
-      <workItem from="1734952553878" duration="28326000" />
+      <workItem from="1734952553878" duration="33161000" />
     </task>
     <task id="LOCAL-00001" summary="1">
       <option name="closed" value="true" />
