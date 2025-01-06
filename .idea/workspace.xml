@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="636daa59-d8af-4315-9ced-ccf8c02e35a7" name="Changes" comment="1">
-      <change afterPath="$PROJECT_DIR$/src/sql/vmap4/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/d8b8758b-1174-4cf9-b318-cea978d94641.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/d8b8758b-1174-4cf9-b318-cea978d94641.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sql/vmap4/SmpManage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sql/vmap4/SmpManage.java" afterDir="false" />
-    </list>
+    <list default="true" id="636daa59-d8af-4315-9ced-ccf8c02e35a7" name="Changes" comment="1" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -284,7 +279,7 @@
       <workItem from="1732366295199" duration="12207000" />
       <workItem from="1734928898418" duration="972000" />
       <workItem from="1734934533174" duration="294000" />
-      <workItem from="1734952553878" duration="48715000" />
+      <workItem from="1734952553878" duration="49314000" />
     </task>
     <task id="LOCAL-00001" summary="1">
       <option name="closed" value="true" />
